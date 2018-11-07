@@ -21,6 +21,7 @@ Example of tetro.txt :
 
 ...#
 
+\n
 
 .#..
 
