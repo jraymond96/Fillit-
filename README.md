@@ -13,25 +13,38 @@ Fillit is programe who sort in the smallest possible square many Tetrominos give
 
 Example of tetro.txt :
 
-`...#\n
-...#\n
-...#\n
-...#\n
-\n
-.#..\n
-.###\n
-....\n
-....\n`
+...#
+
+...#
+
+...#
+
+...#
+
+
+.#..
+
+.###
+
+....
+
+....
 
 ## OBJECTIFS AND GOAL OF THIS PROJECT
 
 # Learn how read in file with fonction open and read
 # creat algorithme who said if "tetro.txt" are valide or not : 
-`...#\n
-.#..\n
-.#..\n
-....\n`
-is invalide tetromino so executable can t resolve and exit properly with an error massage.
+
+...#
+
+.#..
+
+.#..
+
+....
+
+is invalid tetromino so executable can't resolve and exit properly with an error massage. (lot other error exists)
+
 # The most hardest part : backtracking algoritm.
 
 Backtrack algorithm is very powerfull if we needed to resolve a problematic like sudoku or other. The simplest discription of our algo is, we started with the littlest map possible (4 * 4 if juste one tetromino, else depend of numbers of tetromino) and we test to place all the tetros at all the places possible of the map for all tetros existing.
