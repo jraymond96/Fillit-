@@ -34,7 +34,7 @@ Example of tetro.txt :
 ## OBJECTIFS AND GOAL OF THIS PROJECT
 
 * Learn how read in file with fonction open and read
-* creat algorithme who said if "tetro.txt" are valide or not : 
+* create algorithme who said if "tetro.txt" are valide or not : 
 
 . . . #
 
