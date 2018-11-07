@@ -8,8 +8,8 @@ Fillit is programe who sort in the smallest possible square many Tetrominos give
 
 ## Tetrominos Description
 
-# A Tetrimino is a classic piece of Tetris composed of 4 blocks
-# Each block of a Tetromino must touch at least one other block on any of his 4 sides. (up, down, left and right)
+* A Tetrimino is a classic piece of Tetris composed of 4 blocks
+* Each block of a Tetromino must touch at least one other block on any of his 4 sides. (up, down, left and right)
 
 Example of tetro.txt :
 
@@ -33,8 +33,8 @@ Example of tetro.txt :
 
 ## OBJECTIFS AND GOAL OF THIS PROJECT
 
-# Learn how read in file with fonction open and read
-# creat algorithme who said if "tetro.txt" are valide or not : 
+* Learn how read in file with fonction open and read
+* creat algorithme who said if "tetro.txt" are valide or not : 
 
 . . . #
 
